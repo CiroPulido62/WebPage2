@@ -1,0 +1,10 @@
+body{
+    background-color: beige;
+    }
+    img{
+        width: 60px; /*Ancho de la Imagen*/
+        height: 60px;/*Alto de la Imagen*/
+    }
+    img:hover{
+        background-color: #002064;
+    }
